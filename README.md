@@ -42,7 +42,14 @@
   - Node.js Tutorials: https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm
   - Express.js Tutorial: Build RESTful APIs with Node and Express: https://youtu.be/pKd0Rpw7O48?list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud
 
+##
+
 ### Beach Resort - React Project (5:43 long)
 
 - YouTube: https://youtu.be/ScDWrogElmo
 - Setup Files: https://github.com/john-smilga/setup-files-react-beach-resort
+
+### React Course - Recipe Search Project
+
+- YouTube: https://youtu.be/MQVdgu8cpqU
+- Setup Files: https://github.com/john-smilga/setup-files-react-recipe-project.git
