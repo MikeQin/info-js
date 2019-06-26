@@ -1,14 +1,20 @@
 # JavaScript Tutorials & Resources
 
+## React
+
+### My Favorite: Dev Ed Series
+
+- [React Playlist](https://www.youtube.com/watch?v=35lXWvCuM8o&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
+- React State Management Tutorial | Context Api: https://youtu.be/35lXWvCuM8o
+- React Router Tutorial | React For Beginners: https://youtu.be/Law7wfdg_ls
+- Redux For Beginners | React Redux Tutorial: https://youtu.be/CVpUuw9XSjY
+- Product Web UI Design Tutorial: https://youtu.be/UZY9FYe7u6I
+
 ### Online Editor
 
 - Stack Blitz: https://stackblitz.com/
 - Codepen: https://codepen.io/pen?&editable=true&editors=0010 OR https://codepen.io
 - Best? Code Sandbox: https://codesandbox.io/
-
-### Angular
-
-- https://angular.io/start
 
 ### React, Node, JavaScript, PWA, & GraphQL
 
@@ -43,7 +49,7 @@
   - Node.js Tutorials: https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm
   - Express.js Tutorial: Build RESTful APIs with Node and Express: https://youtu.be/pKd0Rpw7O48?list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud
 
-##
+## React Projects
 
 ### Beach Resort - React Project (5:43 long)
 
@@ -54,3 +60,7 @@
 
 - YouTube: https://youtu.be/MQVdgu8cpqU
 - Setup Files: https://github.com/john-smilga/setup-files-react-recipe-project.git
+
+## Angular
+
+- https://angular.io/start
