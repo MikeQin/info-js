@@ -1,5 +1,10 @@
 # JavaScript Tutorials & Resources
 
+## Latest Learning:
+* [Introduction to xState](https://youtu.be/73Ch_EL4YVc)
+* [Full Stack React & Firebase Tutorial - Build a Social Media App (12 hours)](https://youtu.be/m_u6P5k0vP0)
+* [Learn Flexbox in 15 Minutes](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+
 ## React
 
 ### My Favorite: Dev Ed Series
