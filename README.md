@@ -7,6 +7,9 @@
 
 ## React
 
+### Learn React & Material UI
+* Alex: https://www.youtube.com/watch?v=xm4LX5fJKZ8&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk
+
 ### My Favorite: Dev Ed Series
 
 - [React Playlist](https://www.youtube.com/watch?v=35lXWvCuM8o&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)
