@@ -1,5 +1,15 @@
 # JavaScript Tutorials & Resources
 
+## JavaScript Fundamental Tutorial:
+* 8 Must Know JavaScript Array Methods:
+https://youtu.be/R8rmfD9Y5-c?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm
+
+* JavaScript Promises In 10 Minutes:
+https://youtu.be/DHvZLI7Db8E?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm
+
+* JavaScript ES6 Arrow Functions Tutorial:
+https://youtu.be/h33Srr5J9nY?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm
+
 ## Latest Learning:
 * [Introduction to xState](https://youtu.be/73Ch_EL4YVc)
 * [Full Stack React & Firebase Tutorial - Build a Social Media App (12 hours)](https://youtu.be/m_u6P5k0vP0)
